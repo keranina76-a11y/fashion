@@ -1,1 +1,0 @@
-Add your images to images folder.
